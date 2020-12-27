@@ -1,1 +1,1 @@
-This Repository is File for command test.
+readmeはマークダウン形式で書くこと
